@@ -4,7 +4,7 @@
 int euclid(int x, int y);
 
 int main(int argc, char *argv[]) {
-        printf("Hello world!\n");
+        printf("Welcome to GCD\n");
         int x=45, y=78;
 
         if (argc != 3) {
