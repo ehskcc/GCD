@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Extra comment */
 int euclid(int x, int y);
 
 int main(int argc, char *argv[]) {

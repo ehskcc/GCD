@@ -1,4 +1,5 @@
 // The Euclid Algorithm
+/* Extra comment */
 int euclid(int x, int y) {
         int t;
         if (x < y) {
